@@ -8,6 +8,7 @@ namespace testAsync561
 {
     public class ProgressReportModel2
     {
+        //test
         public int PercentageComplete { get; set; } = 0;
         public List<WebsiteDataModel> SitesDownloaded { get; set; } = new List<WebsiteDataModel>();
     }
